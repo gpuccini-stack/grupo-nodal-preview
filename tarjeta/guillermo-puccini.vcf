@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Puccini;Guillermo;;;
+FN:Guillermo Puccini
+ORG:Grupo Nodal
+TITLE:Socio · Seguridad e higiene y ambiente
+EMAIL;TYPE=INTERNET,WORK:gruponodal@gmail.com
+TEL;TYPE=CELL,VOICE:+5491130639599
+URL;TYPE=WORK:https://gpuccini-stack.github.io/grupo-nodal-preview/
+ADR;TYPE=WORK:;;;;;;Argentina
+NOTE:Unimos nodos. Cada necesidad\, conectada con su especialista. Alcance en Argentina y Latinoamérica.
+END:VCARD

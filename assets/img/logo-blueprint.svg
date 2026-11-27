@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 320" fill="none" stroke="#6C7A86" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+  <!-- Guías técnicas finas -->
+  <g stroke-width="0.7" opacity="0.45">
+    <path d="M250 18V302M284 18V302M267 12V308M212 68H322M212 252H322"/>
+    <path d="M228 48H306M228 88H306M228 232H306M228 272H306" stroke-dasharray="3 4"/>
+  </g>
+  <!-- Tramo izquierdo orgánico en contorno blueprint -->
+  <g stroke-width="1.6" class="bp-trazo">
+    <circle cx="82" cy="68" r="24"/>
+    <circle cx="82" cy="68" r="14"/>
+    <circle cx="82" cy="252" r="22"/>
+    <circle cx="82" cy="252" r="12"/>
+    <path d="M74 91V230M90 91V230"/>
+    <path d="M100 84L154 140M92 94L145 150"/>
+  </g>
+  <!-- Nodo central Colorado Nexo en trazo blueprint -->
+  <g stroke="#C01D2E" stroke-width="1.6" class="bp-nexo">
+    <circle cx="164" cy="156" r="18"/>
+    <circle cx="164" cy="156" r="24" stroke-dasharray="3 4" opacity="0.55"/>
+  </g>
+  <!-- Tramo derecho CAD doble línea -->
+  <g stroke="#1F303E" stroke-width="1.6" class="bp-trazo">
+    <path d="M178 168L252 240M170 178L244 249"/>
+    <path d="M256 91V229M278 91V229"/>
+    <circle cx="267" cy="68" r="23"/>
+    <circle cx="267" cy="68" r="14"/>
+    <circle cx="267" cy="252" r="23"/>
+    <circle cx="267" cy="252" r="14"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 284 78" width="240" height="66" role="img" aria-labelledby="t-lc">
+  <title id="t-lc">Grupo Nodal · Consultoría Integral</title>
+  <!-- Isotipo N adaptado a fondo oscuro -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Retícula derecha -->
+    <path d="M58 6V72M42 18H74M42 60H74" stroke="#6C7A86" stroke-width="0.7" opacity="0.5"/>
+    <!-- Tramo orgánico izquierdo -->
+    <path d="M18 22V56" stroke="#C38B42" stroke-width="5" opacity="0.85"/>
+    <path d="M18 39V56" stroke="#6B8E77" stroke-width="5" opacity="0.9"/>
+    <path d="M22 22L36 37" stroke="#A79A66" stroke-width="4.4" opacity="0.9"/>
+    <circle cx="18" cy="18" r="8.5" fill="#C38B42" stroke="#F5EFEB" stroke-width="1.2"/>
+    <circle cx="18" cy="60" r="8" fill="#6B8E77" stroke="#F5EFEB" stroke-width="1.2"/>
+    <!-- Tramo ingeniería derecho -->
+    <path d="M40 42L53 55M44 38L57 51" stroke="#B7C4CE" stroke-width="1.4"/>
+    <path d="M54 26V52M62 26V52" stroke="#F5EFEB" stroke-width="1.5"/>
+    <circle cx="58" cy="18" r="8.5" fill="#1F303E" stroke="#F5EFEB" stroke-width="2.2"/>
+    <circle cx="58" cy="60" r="8.5" fill="#1F303E" stroke="#F5EFEB" stroke-width="2.2"/>
+    <!-- Nodo central Colorado Nexo -->
+    <circle cx="38" cy="39" r="7.5" fill="#C01D2E"/>
+    <circle cx="38" cy="39" r="10.5" stroke="#C01D2E" stroke-width="1" opacity="0.55"/>
+  </g>
+  <!-- Logotipo claro -->
+  <text x="86" y="24" fill="#B7C4CE" font-family="Outfit, Montserrat, Archivo, sans-serif" font-size="14.5" font-weight="600" letter-spacing="4.2">GRUPO</text>
+  <defs><linearGradient id="g-nexo" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#6C7A86"/><stop offset="72%" stop-color="#B04A52"/><stop offset="100%" stop-color="#C01D2E"/></linearGradient></defs>
+  <line x1="168" y1="19" x2="258" y2="19" stroke="url(#g-nexo)" stroke-width="2.6" stroke-linecap="round"/>
+  <circle cx="261" cy="19" r="4" fill="#C01D2E"/>
+  <circle cx="261" cy="19" r="8" fill="none" stroke="#B7C4CE" stroke-width="0.9" opacity="0.65"/>
+  <text x="84" y="61" fill="#F5EFEB" font-family="Outfit, Montserrat, Archivo, sans-serif" font-size="42" font-weight="800" letter-spacing="-1">Nodal</text>
+  <text x="86" y="75" fill="#9CB0BC" font-family="Chivo Mono, monospace" font-size="7.8" letter-spacing="1.8">CONSULTORÍA INTEGRAL</text>
+</svg>
